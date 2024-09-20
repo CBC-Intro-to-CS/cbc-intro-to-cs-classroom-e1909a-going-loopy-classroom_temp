@@ -1,0 +1,25 @@
+# Moon weight
+
+# weight = 199
+# for year in range(1, 16):
+#     weight = weight + 1
+#     moon_weight = weight * 0.165
+#     print(f"year {year} is {moon_weight}")
+
+#Age counter
+
+print("Counting by Twos:")
+for i in range(0,17,2):
+    print(i) 
+
+     
+
+
+#Sandwhich 
+
+# x = 1
+# results = ["turkey", "cheese", "mustard", "Mayo", "Lettuce"]
+# for i in results:
+#     print(f"{x} {i}")
+#     x = x + 1
+
